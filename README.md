@@ -1,4 +1,4 @@
-# Human Resources (HR) Analytics Dashboard
+# İnsan Kaynakları (İK) Analitiği ve İş Gücü Paneli
 
 Bu proje, bir şirketin insan kaynakları verilerini analiz etmek, personel dağılımını incelemek ve işten ayrılma oranlarını (turnover rate) takip etmek amacıyla **Power BI** kullanılarak geliştirilmiş bir iş zekası (BI) paneli projesidir.
 
